@@ -1,0 +1,7 @@
+name: AzuleMOTD
+author: AzuleCodes
+version: 1.0
+main: net.azulemotd.main.Main
+depend: [ProtocolLib]
+commands:
+  motd:
